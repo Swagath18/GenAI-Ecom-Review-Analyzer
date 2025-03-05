@@ -1,0 +1,9 @@
+numpy
+pandas
+librosa
+sklearn
+torch
+transformers
+matplotlib
+seaborn
+requests

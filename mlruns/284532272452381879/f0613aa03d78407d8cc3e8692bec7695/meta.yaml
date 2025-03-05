@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/swaga/Desktop/ML2025/walmart_project/Wpro/mlruns/284532272452381879/f0613aa03d78407d8cc3e8692bec7695/artifacts
+end_time: 1741149903140
+entry_point_name: ''
+experiment_id: '284532272452381879'
+lifecycle_stage: active
+run_id: f0613aa03d78407d8cc3e8692bec7695
+run_name: skittish-foal-712
+run_uuid: f0613aa03d78407d8cc3e8692bec7695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741149903016
+status: 3
+tags: []
+user_id: swaga
