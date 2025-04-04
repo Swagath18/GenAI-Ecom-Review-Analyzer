@@ -6,7 +6,7 @@ The **E-Commerce Customer Review Insights** is a tool designed to analyze and pr
 By leveraging advanced libraries like **MLflow**, **Langchain**, and **Transformers**, the project offers a robust pipeline for analyzing and tracking performance, as well as utilizing cutting-edge pre-trained language models for review analysis. This tool is ideal for researchers, data scientists, and e-commerce professionals looking to analyze large-scale product reviews efficiently.
 
 ## Workflow
-![Alt Text](Review_Analyzer.png)
+![Alt Text](Review_Analyzer_block.png)
 
 ## Key Features
 - **Sentiment Analysis**: Categorizes reviews as positive or negative using NLP models.
